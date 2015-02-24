@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST351: Islam, The Middle East, and The West"
+course_description: "An introductory survey on the history of the Middle East from the rise of Islam in the 7th century to the present, with particular emphasis on the interactions between the Islamic world and the West."
+next: ../Unit09
+previous: ../Unit07
+---
 **Unit 8: European Challenges and the Ottoman Empire** <span
 id="8"></span> 
 *By the nineteenth century, the Ottoman Empire was in decline.  The

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST351: Islam, The Middle East, and The West"
+course_description: "An introductory survey on the history of the Middle East from the rise of Islam in the 7th century to the present, with particular emphasis on the interactions between the Islamic world and the West."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: The Mongol Invasions** <span id="6"></span> 
 *The Mongols—nomads of central Eurasia—dominated world history during
 the thirteenth century.  The Mongols invaded many postclassical empires

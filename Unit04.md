@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST351: Islam, The Middle East, and The West"
+course_description: "An introductory survey on the history of the Middle East from the rise of Islam in the 7th century to the present, with particular emphasis on the interactions between the Islamic world and the West."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: The Expansion of Islam into Europe** <span id="4"></span> 
 *When a Shi’a leader—Abu al-Abbas—usurped power from the reigning Sunni
 caliph in 750 C.E., the Umayyad era officially came to a close.  While

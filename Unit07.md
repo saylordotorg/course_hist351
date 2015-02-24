@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST351: Islam, The Middle East, and The West"
+course_description: "An introductory survey on the history of the Middle East from the rise of Islam in the 7th century to the present, with particular emphasis on the interactions between the Islamic world and the West."
+next: ../Unit08
+previous: ../Unit06
+---
 **Unit 7: The Ottomans and the Safavids** <span id="7"></span> 
 *Two powerful Muslim empires emerged in the Middle East in the
 thirteenth and fourteenth centuries.  The Ottomans ruled Asia Minor,

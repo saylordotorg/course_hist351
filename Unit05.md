@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST351: Islam, The Middle East, and The West"
+course_description: "An introductory survey on the history of the Middle East from the rise of Islam in the 7th century to the present, with particular emphasis on the interactions between the Islamic world and the West."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: The Crusades** <span id="5"></span> 
 *The Crusades—a series of religious wars launched to restore Christian
 control of the Holy Land—began in 1096 and were the most conspicuous

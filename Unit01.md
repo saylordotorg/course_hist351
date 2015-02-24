@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST351: Islam, The Middle East, and The West"
+course_description: "An introductory survey on the history of the Middle East from the rise of Islam in the 7th century to the present, with particular emphasis on the interactions between the Islamic world and the West."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Islamic Civilization** <span id="1"></span> 
 *Islam first arrived on the Arabian Peninsula in the seventh century. 
 But before its appearance, the tribal societies living on the Arabian

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST351: Islam, The Middle East, and The West"
+course_description: "An introductory survey on the history of the Middle East from the rise of Islam in the 7th century to the present, with particular emphasis on the interactions between the Islamic world and the West."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Islamic Society and Faith** <span id="2"></span> 
 *Islam became an established religion in the Middle East after the death
 of the Prophet Muhammad in 632 C.E.  Although Muhammad originally worked

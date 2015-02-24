@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST351: Islam, The Middle East, and The West"
+course_description: "An introductory survey on the history of the Middle East from the rise of Islam in the 7th century to the present, with particular emphasis on the interactions between the Islamic world and the West."
+next: ../Unit11
+previous: ../Unit09
+---
 **Unit 10: Nationalism and Independence Movements** <span
 id="10"></span> 
 *Beginning in 1940s, Britain and France abandoned their protectorates
