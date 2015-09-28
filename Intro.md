@@ -122,3 +122,4 @@ Handbook.](http://www.saylor.org/site/wp-content/uploads/2012/05/Saylor-StudentH
 - [Unit 10](https://legacy.saylor.org/hist351/Unit10/)
 - [Unit 11](https://legacy.saylor.org/hist351/Unit11/)
 - [Unit 12](https://legacy.saylor.org/hist351/Unit12/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/HIST/HIST351/HIST351-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/HIST/HIST351/HIST351-FinalExam-Answers.html)
