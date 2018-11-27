@@ -46,7 +46,7 @@ Upon successful completion of this unit, students will be able to:
 
 -   **Reading: Wikibooks’ History of Islam: “Early Islam”**
     Link: Wikibooks’ *History of Islam:* “[Early
-    Islam](http://www.saylor.org/site/wp-content/uploads/2011/08/HIST351-2-History-of-Islam-Early-Islam.pdf)”
+    Islam](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST351-2-History-of-Islam-Early-Islam.pdf)”
     (PDF)  
         
      Instructions: Please read the entirety of the webpage, which will
@@ -80,7 +80,7 @@ Upon successful completion of this unit, students will be able to:
 **2.2 Religious Practices** <span id="2.2"></span> 
 -   **Reading: Wikipedia: “Five Pillars of Islam”**
     Link: Wikipedia*: *“[Five Pillars of
-    Islam](http://www.saylor.org/site/wp-content/uploads/2011/08/HIST351-2.2-Five-Pillars-of-Islam.pdf)”
+    Islam](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST351-2.2-Five-Pillars-of-Islam.pdf)”
     (PDF)  
         
      Instructions: Please read the entirety of this entry in order to
@@ -121,14 +121,14 @@ Upon successful completion of this unit, students will be able to:
 **2.3.2 Fiqh and Sharia** <span id="2.3.2"></span> 
 -   **Reading: Wikipedia: “Fiqh” and “Sharia”**
     Link:
-    Wikipedia*: *“[Fiqh](http://www.saylor.org/site/wp-content/uploads/2011/08/HIST351-3.2.3-Fiqh.pdf)”
+    Wikipedia*: *“[Fiqh](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST351-3.2.3-Fiqh.pdf)”
     (PDF) and
-    “[Sharia](http://www.saylor.org/site/wp-content/uploads/2011/08/HIST351-2.3.2-Sharia.pdf)”
+    “[Sharia](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST351-2.3.2-Sharia.pdf)”
     (PDF)  
       
      Sharia also available in:  
 
-    [iBook](http://www.saylor.org/site/wp-content/uploads/2011/08/HIST351-2.3.2-Sharia-Wikipedia.epub)  
+    [iBook](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST351-2.3.2-Sharia-Wikipedia.epub)  
         
      Instructions: Please read both of these Wikipedia entries to better
     comprehend Islamic jurisprudence.  
