@@ -157,7 +157,7 @@ id="3.2.2"></span> 
 -   **Reading: The Saylor Foundation's "Expansion into India and the
     Mediterranean"**
     Link: The Saylor Foundation's "[Expansion into India and the
-    Mediterranean](http://www.saylor.org/site/wp-content/uploads/2011/06/Expansion-into-India-and-the-Mediterranean-FINAL.pdf)"
+    Mediterranean](https://resources.saylor.org/archived/wp-content/uploads/2011/06/Expansion-into-India-and-the-Mediterranean-FINAL.pdf)"
     (PDF)  
       
      Instructions: Please read the linked material.
@@ -165,7 +165,7 @@ id="3.2.2"></span> 
 **3.2.3 Non-Muslim Peoples** <span id="3.2.3"></span> 
 -   **Reading: The Saylor Foundation's "Non-Muslim Peoples"**
     Link: The Saylor Foundation's "[Non-Muslim
-    Peoples](http://www.saylor.org/site/wp-content/uploads/2011/06/HIST351-Non-Muslim-Peoples.pdf)”
+    Peoples](https://resources.saylor.org/archived/wp-content/uploads/2011/06/HIST351-Non-Muslim-Peoples.pdf)”
     (PDF)  
       
      Instructions: Please read the linked material.
