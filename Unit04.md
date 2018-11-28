@@ -62,7 +62,7 @@ Upon successful completion of this unit, students will be able to:
 **4.1 The Iberian Peninsula** <span id="4.1"></span> 
 -   **Reading: Wikipedia: “Islam in Spain”**
     Link: Wikipedia*:*“[Islam in
-    Spain](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST351-4.1-Islam-in-Spain.pdf)”
+    Spain](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST351-4.1-Islam-in-Spain.pdf)”
     (PDF)  
         
      Instructions: Please read the entirety of this entry to get a broad
@@ -76,12 +76,12 @@ Upon successful completion of this unit, students will be able to:
 
 -   **Reading: Wikipedia: “Al-Andaulus”**
     Link:
-    Wikipedia*: *“[Al-Andalus](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST351-4.1-Al-Andalus.pdf)”
+    Wikipedia*: *“[Al-Andalus](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST351-4.1-Al-Andalus.pdf)”
     (PDF)  
       
      Also available in:  
 
-    [iBook](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST351-4.1-Al-Andalus-Wikipedia.epub)  
+    [iBook](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST351-4.1-Al-Andalus-Wikipedia.epub)  
         
      Instructions: Please read the entirety of this entry in order to
     get a sense of Muslim Spain, 711-1492.  
@@ -106,7 +106,7 @@ id="4.2.1"></span> 
 **4.3 The Berber Dynasty** <span id="4.3"></span> 
 -   **Reading: The Saylor Foundation's "The Berber Dynasty"**
     Link: The Saylor Foundation's "[The Berber
-    Dynasty](https://resources.saylor.org/archived/wp-content/uploads/2011/06/HIST351-The-Berber-Dynasty.pdf)"
+    Dynasty](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/06/HIST351-The-Berber-Dynasty.pdf)"
     (PDF)  
       
      Instructions: Please read the linked material.
@@ -117,12 +117,12 @@ id="4.2.1"></span> 
     Sourcebook: “Poetry of the Spanish Moors, Selections”**
     Link: Fordham University: Paul Halsall’s *The Medieval Sourcebook:*
     “[Poetry of the Spanish Moors,
-    Selections](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST351-4.3.2-Poetry-of-the-Spanish-Moor-Wikipedia.pdf)”
+    Selections](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST351-4.3.2-Poetry-of-the-Spanish-Moor-Wikipedia.pdf)”
     (PDF)  
         
      Also available in:  
 
-    [iBook](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST351-4.3.2-Poetry-of-the-Spanish-Moor-Author.epub)  
+    [iBook](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST351-4.3.2-Poetry-of-the-Spanish-Moor-Author.epub)  
       
      Instructions: Please read the entirety of this webpage, which
     offers a few examples of medieval Spanish Muslim poetry.   

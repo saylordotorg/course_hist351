@@ -69,12 +69,12 @@ Upon successful completion of this unit, students will be able to:
 **10.2.1 The Suez Canal** <span id="10.2.1"></span> 
 -   **Reading: Wikipedia: “Suez Crisis”**
     Link: Wikipedia*: *“[Suez
-    Crisis](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST351-10.2.1-Suez-Crisis.pdf)”
+    Crisis](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST351-10.2.1-Suez-Crisis.pdf)”
     (PDF)  
       
      Also available in:  
 
-    [iBook](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST351-10.2.1-Suez-Crisis-Wikipedia.epub)  
+    [iBook](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST351-10.2.1-Suez-Crisis-Wikipedia.epub)  
         
      Instructions: Please read the entirety of this entry in order to
     get a better understanding of the Suez Crisis.  
@@ -88,12 +88,12 @@ Upon successful completion of this unit, students will be able to:
 **10.2.2 The Anglo-Iraqi War** <span id="10.2.2"></span> 
 -   **Reading: Wikipedia: “Anglo-Iraqi War”**
     Link: Wikipedia*: *“[Anglo-Iraqi
-    War](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST351-10.2.2-Anglo-Iraqi-War.pdf)”
+    War](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST351-10.2.2-Anglo-Iraqi-War.pdf)”
     (PDF)  
       
      Also available in:  
 
-    [iBook](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST351-10.2.2-Anglo-Iraqi-War-Wikipedia.epub)  
+    [iBook](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST351-10.2.2-Anglo-Iraqi-War-Wikipedia.epub)  
         
      Instructions: Please read the entirety of this entry in order to
     get a better understanding of the Anglo-Iraqi War.  
@@ -109,7 +109,7 @@ id="10.2.3"></span> 
 -   **Reading: The Saylor Foundation's "The Allied Invasion of
     Syria-Lebanon"**
     Link: The Saylor Foundation's "[The Allied Invasion of
-    Syria-Lebanon](https://resources.saylor.org/archived/wp-content/uploads/2011/06/HIST351-Allied-Invasion-of-Syria-Lebanon.pdf)"
+    Syria-Lebanon](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/06/HIST351-Allied-Invasion-of-Syria-Lebanon.pdf)"
     (PDF)  
       
      Instructions: Please read the linked material.
@@ -117,7 +117,7 @@ id="10.2.3"></span> 
 **10.2.4 The Anglo-Soviet Invasion of Iran** <span id="10.2.4"></span> 
 -   **Reading: Wikipedia: “Anglo-Soviet Invasion of Iran”**
     Link: Wikipedia*: *“[Anglo-Soviet Invasion of
-    Iran](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST351-10.2.4-Anglo-Soviet-invasion-of-Iraq.pdf)”
+    Iran](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST351-10.2.4-Anglo-Soviet-invasion-of-Iraq.pdf)”
     (PDF)  
       
      Instructions: Please read the entirety of this entry in order to
@@ -218,7 +218,7 @@ id="10.2.3"></span> 
 **10.3.1 Egypt and the First Revolution** <span id="10.3.1"></span> 
 -   **Reading: Wikipedia: “Egyptian Revolution of 1919”**
     Link: Wikipedia*:*  “[Egyptian Revolution of
-    1919](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST351-10.3.1-Egyptian-Revolution-of-1919.pdf)”
+    1919](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST351-10.3.1-Egyptian-Revolution-of-1919.pdf)”
     (PDF)  
         
      Instructions: Please read this encyclopedia entry to better
@@ -235,7 +235,7 @@ id="10.2.3"></span> 
 -   **Reading: The Saylor Foundation's "Syria and the Battle of
     Maysalun"**
     Link: The Saylor Foundation's "[Syria and the Battle of
-    Maysalun](https://resources.saylor.org/archived/wp-content/uploads/2011/06/HIST351-Syria-and-the-Battle-of-Maysalun.pdf)"
+    Maysalun](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/06/HIST351-Syria-and-the-Battle-of-Maysalun.pdf)"
     (PDF)  
       
      Instructions: Please read the linked material.  
@@ -244,7 +244,7 @@ id="10.2.3"></span> 
 **10.3.3 Iraqi Revolt Against the British** <span id="10.3.3"></span> 
 -   **Reading: Wikipedia: “Iraqi Revolt Against the British”**
     Link: Wikipedia*:*  “[Iraqi Revolt Against the
-    British](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST351-10.3.3-Iraqi-revolt-against-the-British.pdf)”
+    British](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST351-10.3.3-Iraqi-revolt-against-the-British.pdf)”
     (PDF)  
         
      Instructions: Please read this encyclopedia entry to better
@@ -276,7 +276,7 @@ id="10.2.3"></span> 
     Sourcebook: “The Eisenhower Doctrine on the Middle East”**
     Link: Fordham University: Paul Halsall’s *Modern History
     Sourcebook:* “[The Eisenhower Doctrine on the Middle
-    East](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST351-10.3.4-Presiden-Eisenhower.pdf)”
+    East](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST351-10.3.4-Presiden-Eisenhower.pdf)”
     (PDF)  
         
      Instructions: Please read the entirety of Eisenhower’s speech to
@@ -353,12 +353,12 @@ id="10.2.3"></span> 
 **10.4.3 The Arab-Israeli War of 1948** <span id="10.4.3"></span> 
 -   **Reading: Wikipedia: “1948 Arab-Israeli War”**
     Link: Wikipedia*: *“[1948 Arab-Israeli
-    War](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST351-10.4.3-1948-Arab-Israeli-War.pdf)”
+    War](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST351-10.4.3-1948-Arab-Israeli-War.pdf)”
     (PDF)  
       
      Also available in:  
 
-    [iBook](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST351-10.4.3-1948-Arab-Israeli-War-Wikipedia.epub)  
+    [iBook](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST351-10.4.3-1948-Arab-Israeli-War-Wikipedia.epub)  
         
      Instructions: Please read the entirety of this entry in order to
     get a better understanding of the 1948 war between Zionists and

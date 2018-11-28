@@ -59,12 +59,12 @@ Upon successful completion of this unit, students will be able to:
 **1.1 Pre-Islamic Arabia** <span id="1.1"></span> 
 -   **Reading: Wikipedia: “Pre-Islamic Arabia”**
     Link: Wikipedia*: *“[Pre-Islamic
-    Arabia](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST351-1.1-Pre-Islamic-Arabia.pdf)”
+    Arabia](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST351-1.1-Pre-Islamic-Arabia.pdf)”
     (PDF)  
         
      Also available in:  
 
-    [iBook](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST351-1.1-Pre-Islamic-Arabia-Wikipedia.epub)  
+    [iBook](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST351-1.1-Pre-Islamic-Arabia-Wikipedia.epub)  
       
      Instructions: Please read the entirety of this entry in order to
     get a better understanding of Pre-Islamic Arabia.  This link
@@ -79,7 +79,7 @@ Upon successful completion of this unit, students will be able to:
 **1.1.1 Bedouin Nomads** <span id="1.1.1"></span> 
 -   **Reading: F.E. Johnson’s translation of The Hanged Poems**
     Link: SacredTexts.com: F.E. Johnson’s translation of “[The Hanged
-    Poems](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST351-1.1.1-The-Hanged-Poems.pdf)”
+    Poems](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST351-1.1.1-The-Hanged-Poems.pdf)”
     (PDF)  
         
      Also available in:  

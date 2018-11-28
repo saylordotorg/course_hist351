@@ -36,12 +36,12 @@ Upon successful completion of this unit, students will be able to:
 **8.1 Ottoman Empire in the 1800s** <span id="8.1"></span> 
 -   **Reading: Wikipedia: “Ottoman Empire”**
     Link: Wikipedia*: *“[Ottoman
-    Empire](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST351-8.1-Ottoman-Empire.pdf)”
+    Empire](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST351-8.1-Ottoman-Empire.pdf)”
     (PDF)  
       
      Also available in:  
 
-    [iBook](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST351-8.1-Ottoman-Empire-Wikipedia.epub)  
+    [iBook](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST351-8.1-Ottoman-Empire-Wikipedia.epub)  
         
      Instructions: Please read the entirety of this entry in order to
     get a sense of the Ottoman Empire. This link covers subpoints 8.1.1
@@ -90,7 +90,7 @@ id="8.2.5"></span> 
 **8.3.1 The Young Turks** <span id="8.3.1"></span> 
 -   **Reading: Wikipedia: “Young Turks”**
     Link: Wikipedia*: *“[Young
-    Turks](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST351-8.3.1-Young-Turks.pdf)”
+    Turks](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST351-8.3.1-Young-Turks.pdf)”
     (PDF)  
         
      Instructions: Please read the entirety of this entry in order to
@@ -107,7 +107,7 @@ id="8.2.5"></span> 
     1908.”**
     Link: Fordham University: Paul Halsall’s *Modern History
     Sourcebook:* “[The Young Turks: Proclamation for the Ottoman Empire,
-    1908](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST351-8.3.1-The-Young-Turks.pdf)”
+    1908](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST351-8.3.1-The-Young-Turks.pdf)”
     (PDF)  
         
      Instructions: Please read the entirety of this proclamation to

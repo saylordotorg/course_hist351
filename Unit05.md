@@ -133,7 +133,7 @@ id="5.2.1"></span> 
     Sourcebook: “Fulk of Chartres: ‘The Capture of Jerusalem, 1099”**
     Link: Fordham University: Paul Halsall’s *The Medieval Sourcebook:*
     “[Fulk of Chartres: 'The Capture of Jerusalem,
-    1099'](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST351-5.2.1-Fulk-of-Chartres.pdf)”
+    1099'](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST351-5.2.1-Fulk-of-Chartres.pdf)”
     (PDF)  
         
      Instructions: Please read the entirety of this webpage, which

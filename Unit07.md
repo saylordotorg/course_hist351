@@ -104,12 +104,12 @@ id="7.1.7"></span> 
 **7.3 The Safavids** <span id="7.3"></span> 
 -   **Reading: Wikipedia: “Safavid Dynasty”**
     Link: Wikipedia*: *“[Safavid
-    Dynasty](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST351-7.3-Safavid-Dynasty.pdf)”
+    Dynasty](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST351-7.3-Safavid-Dynasty.pdf)”
     (PDF)  
       
      Also available in:  
 
-    [iBook](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST351-7.3-Safavid-Dynasty-Wikipedia.epub)  
+    [iBook](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST351-7.3-Safavid-Dynasty-Wikipedia.epub)  
         
      Instructions: Please read the entirety of this entry in order to
     get a sense of the Safavid dynasty.   This link addresses
