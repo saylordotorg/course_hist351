@@ -153,7 +153,7 @@ Upon successful completion of this unit, students will be able to:
     Link: Fordham University: Paul Halsall’s *Modern History
     Sourcebook:* “[Ayatollah Ruhollah Khomeini: The Uprising of Khurdad
     15,
-    1979](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST351-11.1.1-Ayatollah-Ruhollah-Khomeini.pdf)”
+    1979](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST351-11.1.1-Ayatollah-Ruhollah-Khomeini.pdf)”
     (PDF)  
         
      Instructions: Please read the entirety of this proclamation to
@@ -166,7 +166,7 @@ Upon successful completion of this unit, students will be able to:
 **11.1.3 Islamic Fundamentalism** <span id="11.1.3"></span> 
 -   **Reading: The Saylor Foundation's "Islamic Fundamentalism"**
     Link: The Saylor Foundation's "[Islamic
-    Fundamentalism](https://resources.saylor.org/archived/wp-content/uploads/2011/06/HIST351-Islamic-Fundamentalism.pdf)"
+    Fundamentalism](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/06/HIST351-Islamic-Fundamentalism.pdf)"
     (PDF)  
       
      Instructions: Please read the linked material.
@@ -174,12 +174,12 @@ Upon successful completion of this unit, students will be able to:
 **11.1.4 The Iran-Iraq War** <span id="11.1.4"></span> 
 -   **Reading: Wikipedia: “Iran-Iraq War”**
     Link: Wikipedia*: *“[Iran-Iraq
-    War](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST351-11.1.4-Iran-Iraq-War.pdf)”
+    War](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST351-11.1.4-Iran-Iraq-War.pdf)”
     (PDF)  
         
      Also available in:  
 
-    [iBook](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST351-11.1.4-Iran-Iraq-War-Wikipedia.epub)  
+    [iBook](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST351-11.1.4-Iran-Iraq-War-Wikipedia.epub)  
       
      Instructions: Please read the entirety of this entry in order to
     get a sense for the causes, progress, and consequences of the
@@ -276,12 +276,12 @@ id="11.2"></span> 
 **11.2.3 The Taliban** <span id="11.2.3"></span> 
 -   **Reading: Wikipedia: “Taliban”**
     Link:
-    Wikipedia*: *“[Taliban](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST351-11.2.3-Taliban.pdf)”
+    Wikipedia*: *“[Taliban](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST351-11.2.3-Taliban.pdf)”
     (PDF)  
       
      Also available in:  
 
-    [iBook](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST351-11.2.3-Taliban-Wikipedia.epub)  
+    [iBook](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST351-11.2.3-Taliban-Wikipedia.epub)  
         
      Instructions: Please read the entirety of this entry in order to
     get a better understanding of the Taliban.  
@@ -296,7 +296,7 @@ id="11.2"></span> 
 **11.3.1 September 11 Attacks** <span id="11.3.1"></span> 
 -   **Reading: The Saylor Foundation's "September 11 Attacks"**
     Link: The Saylor Foundation's "[September 11
-    Attacks](https://resources.saylor.org/archived/wp-content/uploads/2011/06/HIST351-September-11-Attacks.pdf)"
+    Attacks](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/06/HIST351-September-11-Attacks.pdf)"
     (PDF)  
       
      Instructions: Please read the linked material.
@@ -304,7 +304,7 @@ id="11.2"></span> 
 **11.3.2 “War on Terror”** <span id="11.3.2"></span> 
 -   **Reading: The Saylor Foundation's "War on Terror"**
     Link: The Saylor Foundation's "[War on
-    Terror](https://resources.saylor.org/archived/wp-content/uploads/2011/06/HIST351-War-on-Terror.pdf)"
+    Terror](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/06/HIST351-War-on-Terror.pdf)"
     (PDF)  
       
      Instructions: Please read the linked material.
@@ -312,7 +312,7 @@ id="11.2"></span> 
 **11.3.3 Invasion of Iraq** <span id="11.3.3"></span> 
 -   **Reading: The Saylor Foundation's "Invasion of Iraq"**
     Link: The Saylor Foundation's "[Invasion of
-    Iraq](https://resources.saylor.org/archived/wp-content/uploads/2011/06/HIST351-War-on-Terror.pdf)"
+    Iraq](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/06/HIST351-War-on-Terror.pdf)"
     (PDF)  
       
      Instructions: Please read the linked material.
@@ -320,12 +320,12 @@ id="11.2"></span> 
 **11.3.4 War in Afghanistan** <span id="11.3.4"></span> 
 -   **Reading: Wikipedia: “War in Afghanistan (2001-Present)”**
     Link: Wikipedia*: *“[War in
-    Afghanistan](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST351-11.3.4-War-in-Afghanistan-2001-present.pdf)”
+    Afghanistan](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST351-11.3.4-War-in-Afghanistan-2001-present.pdf)”
     (PDF)  
       
      Also available in:  
 
-    [iBook](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST351-11.3.4-War-in-Afghanistan-2001-p-Wikipedia.epub)  
+    [iBook](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST351-11.3.4-War-in-Afghanistan-2001-p-Wikipedia.epub)  
         
      Instructions: Please read the entirety of this entry in order to
     get a comprehensive overview of the War in Afghanistan.  

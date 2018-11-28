@@ -120,12 +120,12 @@ id="9.1.1"></span> 
 **9.1.3 The Arab Revolt** <span id="9.1.3"></span> 
 -   **Reading: Wikipedia: “Arab Revolt”**
     Link: Wikipedia*: *“[Arab
-    Revolt](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST351-9.1.3-Arab-Revolt.pdf)”
+    Revolt](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST351-9.1.3-Arab-Revolt.pdf)”
     (PDF)  
       
      Also available in:  
 
-    [iBook](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST351-9.1.3-Arab-Revolt-Wikipedia.epub)  
+    [iBook](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST351-9.1.3-Arab-Revolt-Wikipedia.epub)  
         
      Instructions: Please read the entirety of this entry in order to
     get a better understanding of the Arab Revolt.  
@@ -141,12 +141,12 @@ id="9.1.1"></span> 
 id="9.1.5"></span> 
 -   **Reading: Wikipedia: “Mustafa Kemal Ataturk”**
     Link: Wikipedia*: *“[Mustafa Kemal
-    Ataturk](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST351-9.1.5-Mustafa-Kemal-Ataturk.pdf)”
+    Ataturk](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST351-9.1.5-Mustafa-Kemal-Ataturk.pdf)”
     (PDF)  
       
      Also available in:  
 
-    [iBook](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST351-9.1.5-Mustafa-Kemal-Ataturk-Wikipedia.epub)  
+    [iBook](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST351-9.1.5-Mustafa-Kemal-Ataturk-Wikipedia.epub)  
         
      Instructions: Please read the entirety of this entry in order to
     get a sense of the Ataturk’s biography and continuing importance in
@@ -179,7 +179,7 @@ id="9.1.5"></span> 
 **9.2.1 The Sykes-Picot Agreement** <span id="9.2.1"></span> 
 -   **Reading: Wikipedia: “Sykes-Picot Agreement”**
     Link: Wikipedia*: *“[Sykes-Picot
-    Agreement](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST351-9.2.1-Sykes-Picot-Agreement.pdf)”
+    Agreement](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST351-9.2.1-Sykes-Picot-Agreement.pdf)”
     (PDF)  
         
      Instructions: Please read the entirety of this entry in order to
@@ -194,7 +194,7 @@ id="9.1.5"></span> 
 
 -   **Reading: WWI Document Archive: “Sykes-Picot Agreement”**
     Link: WWI Document Archive: “[Sykes-Picot
-    Agreement](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST351-9.2.4-Sykes-Picot-Agreement.pdf)”
+    Agreement](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST351-9.2.4-Sykes-Picot-Agreement.pdf)”
     (PDF)  
         
      Instructions: Please read the entirety of this entry in order to
@@ -229,7 +229,7 @@ id="9.1.5"></span> 
 **9.2.3 British Mandated Territories** <span id="9.2.3"></span> 
 -   **Web Media: Wikipedia: “British Mandate Territories”**
     Link: Wikipedia*: *“[British Mandate
-    Territories](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST351-9.2.3-Palestine-and-Trans-Jordan.png)”
+    Territories](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST351-9.2.3-Palestine-and-Trans-Jordan.png)”
     (PNG Image)  
         
      Instructions: Please examine this map to better understand the
@@ -245,7 +245,7 @@ id="9.1.5"></span> 
 **9.2.4 French Mandated Territories** <span id="9.2.4"></span> 
 -   **Web Media: Wikipedia: “French Mandate Territories”**
     Link: Wikipedia*:*  “[French Mandate
-    Territories](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST351-9.2.4-Mandate_of_Syria.png)”
+    Territories](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST351-9.2.4-Mandate_of_Syria.png)”
     (PNG Image)  
         
      Instructions: Please examine this map to better understand the
